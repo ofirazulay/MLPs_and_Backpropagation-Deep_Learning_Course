@@ -13,6 +13,7 @@ The network consists of a series of linear layers with ReLU activation functions
 softmax activation. As a loss function, we use the common cross-entropy loss for classification
 tasks. To optimize the network we used the mini-batch stochastic gradient descent
 algorithm. 
+
 The Implemention is in the files:
 
 • train_mlp_numpy.py
@@ -23,6 +24,7 @@ The Implemention is in the files:
 
 ###### 2) pytorch
 We implemented the same MLP in pytorch.
+
 The Implemention is in the files:
 
 • train_mlp_pytorch.py
