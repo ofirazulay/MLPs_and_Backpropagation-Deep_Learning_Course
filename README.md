@@ -14,14 +14,19 @@ softmax activation. As a loss function, we use the common cross-entropy loss for
 tasks. To optimize the network we used the mini-batch stochastic gradient descent
 algorithm. 
 The Implemention is in the files:
+
 • train_mlp_numpy.py
+
 • modules.py
+
 • mlp_numpy.py
 
 ###### 2) pytorch
 We implemented the same MLP in pytorch.
 The Implemention is in the files:
+
 • train_mlp_pytorch.py
+
 • mlp_pytorch.py
 
 <br/>
