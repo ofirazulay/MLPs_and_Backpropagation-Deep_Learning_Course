@@ -7,7 +7,7 @@
 <br/>
 
 #### Description: 
-##### Implemention of a multi-layer perceptron using 2 Variations:
+##### implementation of a multi-layer perceptron using 2 Variations:
 ###### 1) Purely NumPy routines.
 The network consists of a series of linear layers with ReLU activation functions followed by a final linear layer and
 softmax activation. As a loss function, we use the common cross-entropy loss for classification
