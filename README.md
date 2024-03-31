@@ -1,6 +1,6 @@
 # MLPs and Backpropagation
 
-### Deep_Learning_Course
+### Deep Learning Course 
 
 
 
